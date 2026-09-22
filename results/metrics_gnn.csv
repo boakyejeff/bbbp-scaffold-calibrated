@@ -1,0 +1,3 @@
+split,model,auroc,auprc,accuracy,balanced_accuracy,ece,brier
+scaffold,mpnn,0.6343,0.9301,0.8683,0.5663,0.1016,0.1139
+scaffold,mpnn-big,0.6852,0.9489,0.8585,0.5409,0.0905,0.1076

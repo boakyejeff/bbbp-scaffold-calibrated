@@ -1,0 +1,7 @@
+# runtime deps (CPU)
+rdkit
+scikit-learn
+pandas
+numpy
+matplotlib
+torch  # CPU wheel; only needed for the optional src/gnn.py honesty-check experiment

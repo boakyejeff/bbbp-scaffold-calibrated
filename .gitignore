@@ -1,0 +1,15 @@
+# raw data (downloaded at runtime, not committed)
+data/
+BBBP.csv
+
+# environments and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# pickled models
+*.pkl
+
+# results/ is intentionally COMMITTED as a small demo artifact
+# (metrics CSVs + reliability-diagram PNGs, all < 200 KB total)

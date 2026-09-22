@@ -1,0 +1,3 @@
+n_unique_scaffolds_train,n_unique_scaffolds_valid,n_unique_scaffolds_test,overlap_train_valid,overlap_train_test,overlap_valid_test,split,n_train,n_valid,n_test,pos_rate_train,pos_rate_valid,pos_rate_test
+693.0,205.0,205.0,0.0,0.0,0.0,scaffold,1640,205,205,0.7536585365853659,0.7219512195121951,0.8926829268292683
+,,,,,,random,1640,205,205,0.7585365853658537,0.8195121951219512,0.7560975609756098
