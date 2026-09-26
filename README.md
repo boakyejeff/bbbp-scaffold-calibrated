@@ -1,5 +1,6 @@
 # BBBP under a scaffold split, with calibrated uncertainty
 
+![Project cover](assets/cover.png)
 Blood–brain-barrier permeability prediction (MoleculeNet **BBBP**, Wu et al. 2018)
 done the rigorous way: a **Murcko scaffold-disjoint 80/10/10 split** (implemented
 from scratch with RDKit), three sklearn models on ECFP+MACCS fingerprints, and
